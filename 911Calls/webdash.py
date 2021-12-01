@@ -49,7 +49,7 @@ with col1:
     st.plotly_chart(pie_chart, use_container_width=True)
 
 with col2:
-    image = Image.open('911Calls/images/pie_chart.png')
+    image = Image.open('images/pie_chart.png')
     st.image(image,
         caption='Available at unDraw.co',
         width=600)
