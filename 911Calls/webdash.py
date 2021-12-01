@@ -14,7 +14,7 @@ st.header('911 Data Visualization Test -- edit')
 
 ### -- LOAD DATA  
 
-csv_file = '911Calls/911.csv'
+csv_file = '911.csv'
 sheet_name = 'DATA'
 
 
