@@ -18,6 +18,7 @@ Datasets to explore:
 
 *More are completion of above stated*
 
+#To Run simply follow the instructions below
 
 streamlit run https://raw.githubusercontent.com/OlandoP-dot/Data-Exploration/main/911Calls/webdash.py
 
