@@ -15,5 +15,5 @@ or
 
 streamlit run webdash.py (if cloned)
 
-==There might be some issues with the paths since I tried to make it run from github without cloning locally, simply update paths if there's an error.==
+**There might be some issues with the paths since I tried to make it run from github without cloning locally, simply update paths if there's an error.**
 
