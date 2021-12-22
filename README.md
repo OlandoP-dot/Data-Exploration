@@ -15,7 +15,7 @@ Datasets to explore:
 - [ ] 2014 World GDP
 - [ ] E-Commerce Customers
 - [ ] USA Housing
-- [ ] 
+
 *More are completion of above stated*
 
 
